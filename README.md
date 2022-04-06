@@ -28,5 +28,5 @@
 
 
   ## Questions?
-  GitHub ❤️ : [http://github.com/nicolalenee]  
+  GitHub ❤️ : [http://github.com/nicolalenee/tech-blog]  
   Email 📧: [marblenicola@gmail.com]
