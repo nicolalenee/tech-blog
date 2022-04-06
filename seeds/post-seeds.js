@@ -8,11 +8,11 @@ const postData = [
   },
   {
     title: 'Tumblr deletes itself from the internet',
-    content: "Anyone else shocked at the fact that tumblr just whipped itself from the face of the planet?",
+    content: "Anyone else shocked at the fact that tumblr just wiped itself from the face of the planet?",
     user_id: 2
   },
   {
-    title: "'Sexy Spec' from group Pretty Ricky",
+    title: "'Spectacular' from group Pretty Ricky",
     content: "Did this guy follow anyone else on twitter? He's apparently a singer from an rnb group in the early 2000's. What a guy.",
     user_id: 3
   },
@@ -25,6 +25,21 @@ const postData = [
     title: 'Mechanical Keyboards',
     content: "Mechanical keyboards have definitely risen in popularity. Too bad that GMK's wait times are still horrendous.",
     user_id: 5
+  },
+  {
+    title: 'Databases',
+    content: 'Working with databases is more challenging than I originally anticipated, but I believe that’s exactly where all the fun lies.',
+    user_id: 1
+  },
+  {
+    title: 'I love full stack',
+    content: 'Although my knowledge in any particular language may not be as deep or nuanced compared to a developer with a moree narrow focus, I truly enjoy working all over the application.',
+    user_id: 4
+  },
+  {
+    title: 'SQL vs MongoDB',
+    content: 'Honestly, I prefer MongoDB. Setting up databases is so much easier, though it can get a bit messy due to the lack of structure',
+    user_id: 6
   }
 ];
 
