@@ -5,25 +5,7 @@
     {{#each posts as |post|}}
     <!--single card start here-->
     <li class="border border-light rounded p-3 mb-3">
-      <!--card title-->
-      <div id= "post-title" class="bg-light">
-        <h2 class="card-title p-2">
-          <a href="/{{post.id}}">{{post.title}}</a>
-          </h2>
-      </div>
-      <!--card content-->
-      <div id=" post-content" class="mb-3">
-        <p class="card-text">{{post.content}}</p>
-      </div>
-      <!--card footer details-->
-      <div id="post-details" class="bg-light d-flex justify-content-between p-2">
-        <div class="left-details d-flex align-items-center">
-          <p class="card-text"><b>Created By: {{post.user.username}}</b></p>
-        </div>
-        <div class="right-details">
-          <p class="card-text"><b>Date created: {{post.created_at}}</b></p>
-        </div>
-      </div>
+      {{> post-details post }}
     </li>
     {{/each}}
   </ul>

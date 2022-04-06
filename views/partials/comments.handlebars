@@ -1,0 +1,13 @@
+<div class="comments container d-flex p-1 justify-content-start flex-column">
+  {{#each this}}
+  <section class="comment mb-2 border border-light p-3">
+    <div class="meta">
+      <b>✏️ {{user.username}}</b> on {{ format_date created_at}}
+    </div>
+
+    <div class="text">
+      {{comment_content}}
+    </div>
+  </section>
+  {{/each}}
+</div>

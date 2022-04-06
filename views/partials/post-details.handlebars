@@ -1,0 +1,19 @@
+<!--card title-->
+<div id= "post-title" class="bg-light">
+  <h2 class="card-title p-2">
+    <a href="/{{id}}">{{title}}</a>
+    </h2>
+</div>
+<!--card content-->
+<div id=" post-content" class="mb-3">
+  <p class="card-text">{{content}}</p>
+</div>
+<!--card footer details-->
+<div id="post-details" class="bg-light d-flex justify-content-between p-2">
+  <div class="left-details d-flex align-items-center">
+    <p class="card-text"><b>Created By: {{user.username}}</b></p>
+  </div>
+  <div class="right-details">
+    <p class="card-text"><b>Date created: {{format_date created_at}}</b></p>
+  </div>
+</div>
