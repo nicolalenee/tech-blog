@@ -20,7 +20,7 @@
   This application also has a live deployment that can be seen [!here][http://nicola-tech-blog.herokuapp.com/]
   
   ## Technologies
-  This application was built using Node.Js, Express, and SQL for backend configuration. Handlebars was used for a scalable front-end display.
+  This application was built using Node.Js, Express, and SQL for backend configuration. Handlebars was used for a scalable front-end display alongside the Bootstrap library for a clean interface.
   ## Questions?
   GitHub ❤️ : [http://github.com/nicolalenee/tech-blog]  
   Email 📧: [marblenicola@gmail.com]
