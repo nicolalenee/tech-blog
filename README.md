@@ -1,6 +1,5 @@
 
   # tech-blog
-  nicola marble
 
   ## Table of Contents
   [Description](#description)  
