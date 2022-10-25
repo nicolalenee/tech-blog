@@ -25,12 +25,3 @@ The date formatting and pluralizing helper functions were tested in jest. To run
 [Repository](https://github.com/nicolalenee/tech-blog)  
 [Deployment](http://nicola-tech-blog.herokuapp.com/)
 
- 
-
-
-
-
-
-
-  ## Questions?
-  GitHub ❤️ : [http://github.com/nicolalenee/tech-blog]  
